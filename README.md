@@ -22,7 +22,7 @@ Doing japanese NLP task with [fastText](https://github.com/facebookresearch/fast
 5. Run `$ python ft.py` to get fastText word vector in `data/` folder. Adjust min_count as you want in `ft.py`.
 
 ## Download pre-trained model
-[click here](https://drive.google.com/open?id=1ED7o_h3KO3fKcDSRHXiuAFL3fxEM5z78) (Vector size: 300, Vocabulary size: 92056)
+[Click here](https://drive.google.com/open?id=1ED7o_h3KO3fKcDSRHXiuAFL3fxEM5z78) (Vector size: 300, Vocabulary size: 92056)
 
 ## References
 - [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
